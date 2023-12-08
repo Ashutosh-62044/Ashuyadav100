@@ -2,12 +2,12 @@
 
 - 👋 Hi, I’m Ashutosh Kumar
 - 👀 I’m interested in java development and Software development.
-- 🌱 I’m currently learning Advance Java , Hibernate , SpringBoot framework , Microservices.  
+- 🌱 I have good Knowledge in Advance Java , Hibernate , SpringBoot framework , Microservices, RESTfulAPI  
 - 💞️ I’m looking to collaborate on fullStack Development.
 - 👀 I've good knowledge in HTML , CSS , BOOTSTRAP, BASIC JAVASCRIPT.
 - 👀 Programming Language :-  JAVA &&  C++.
-- 👀 Tools :- 1.Visual Studio Code && 2. Eclipse IDE.
-- 📫 How to reach me - ashutoshkumar292000@gmail.com  && ashusoft62044@gmail.com || 6204435590
+- 👀 Tools :- 1.Visual Studio Code && 2. Eclipse IDE, 3.Spring-Suit-Tool(STS-4), 4.Intellij IDEA
+- 📫 How to reach me - ashutoshkumar292000@gmail.com  && ec1994@global.org.in || 6204435590
 
 
 
