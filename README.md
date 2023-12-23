@@ -12,24 +12,26 @@
 
 <div align="center">
  
- 🔭 I’m currently working on Microservices and API
+ 🔭 I’m currently working on **Microservices and API**
  
- 🌱 I’m currently learning Docker, AWS**, CI/CD
+ 🌱 I’m currently learning **Docker, AWS**
 
 💬 Ask me about **Java, Spring Boot, WebServices(RESTful API), Hibernate, MongoDB, MySQL or anything [here](https://www.linkedin.com/in/ashutosh-kumar-720a97243/)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+📫 How to reach me - **ashutoshkumar292000@gmail.com  && ec1994@global.org.in || 6204435590**
+
+⚡ Fun fact **Writing Poetry || Playing Cricket || Video Game**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="ashutoshkumar292000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/ashutosh-kumar-720a97243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://github.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
