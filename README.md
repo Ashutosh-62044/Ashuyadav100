@@ -12,11 +12,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on Microservices and API
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning Docker, AWS**, CI/CD
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Java, Spring Boot, WebServices(RESTful API), Hibernate, MongoDB, MySQL or anything [here](https://www.linkedin.com/in/ashutosh-kumar-720a97243/)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
