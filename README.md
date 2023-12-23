@@ -42,7 +42,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i= java,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=Spring Boot,javascript,mongodb,c,,mysql,SpringMVC,Eclipse,Intellij IDEA" /><br>
+    <img src="https://skillicons.dev/icons?i=Spring Boot,javascript,mongodb,c,mysql,SpringMVC" /><br>
 </div>
 
 <br/>
