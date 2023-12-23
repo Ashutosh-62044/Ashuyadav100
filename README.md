@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<img src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif">
+<img src=">
 
 - 👋 Hi, I’m Ashutosh Kumar
 - 👀 I’m interested in java development and Software development.
