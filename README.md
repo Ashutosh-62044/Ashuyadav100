@@ -1,24 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-        }
-    </style>
-</head>
-<body>
+
+<div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I am+Ashutosh+Kumar;+Java+Developer;+Backend+Developer;+Software+Developer" alt="Typing SVG" />
     </a>
-</body>
-</html>
+</div>
+
 
 <h3 align="center">A passionate software developer from India </h3>
 
